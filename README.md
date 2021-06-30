@@ -46,7 +46,7 @@ Contains:
 - Section 6, Classification problem
 - Section 7, Concatenated models and transfer learning
 
-For more information check the [notebook](https://github.com/teoad95/Deep-learning-Cryptocurrency-price-prediction/blob/main/Cryptocurrency%20price%20prediction.ipynb).
+For more information check the [notebook](https://nbviewer.jupyter.org/github/teoad95/Deep-learning-Cryptocurrency-price-prediction/blob/main/Cryptocurrency%20price%20prediction.ipynb).
 
 
 
